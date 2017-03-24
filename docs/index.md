@@ -11,5 +11,6 @@ What is Galaxy? [Galaxy](https://usegalaxy.org/) is an open-source bioinformatic
 Have a play with genomic data yourself! The step-by-step guide, data, and histories used for the demo in class are available [here](https://usegalaxy.org/u/kvik/p/prabi-demo). Want more? Check out the plethora of [tutorials](http://galaxyproject.github.io/training-material/) on everything 'omics' from NGS, RNA-seq, to chip-seq, and more.
 
 Further reading:
-	* Genomics [brief guide](https://www.genome.gov/18016863/a-brief-guide-to-genomics/)
+	
+	1. Genomics [brief guide](https://www.genome.gov/18016863/a-brief-guide-to-genomics/)
 
