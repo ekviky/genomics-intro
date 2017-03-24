@@ -12,6 +12,6 @@ Have a play with genomic data yourself! The step-by-step guide, data, and histor
 
 Further reading:
 	
-	1. Genomics [brief guide](https://www.genome.gov/18016863/a-brief-guide-to-genomics/)
+	- Genomics [brief guide](https://www.genome.gov/18016863/a-brief-guide-to-genomics/)
 
 
