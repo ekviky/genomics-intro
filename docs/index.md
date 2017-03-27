@@ -17,5 +17,6 @@ Want more? Check out the plethora of [tutorials](http://galaxyproject.github.io/
 ### Further reading:
 	
 - Genomics [brief guide](https://www.genome.gov/18016863/a-brief-guide-to-genomics/)
+- [Genomes 2](https://www.ncbi.nlm.nih.gov/books/NBK21130/)
 
 
