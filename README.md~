@@ -6,5 +6,5 @@ To get your feet wet in all things genomics, this module includes a lecture prov
 To do:
 - add links to papers from lecture
 
-
+Misc:
 Genomicists are people and we can do better as pointed out [here](http://www.nature.com/news/genomics-is-failing-on-diversity-1.20759)
